@@ -1,0 +1,5 @@
+D:\cs1prg\bill\billingapp\billingapp\bin\billingapp.dll
+D:\cs1prg\bill\billingapp\billingapp\bin\billingapp.pdb
+D:\cs1prg\bill\billingapp\billingapp\obj\Debug\ResolveAssemblyReference.cache
+D:\cs1prg\bill\billingapp\billingapp\obj\Debug\billingapp.dll
+D:\cs1prg\bill\billingapp\billingapp\obj\Debug\billingapp.pdb

@@ -1,0 +1,14 @@
+c:\csprograms\bill\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\csprograms\bill\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\csprograms\bill\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\csprograms\bill\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\cs1prg\newapp\WebApplication1\bin\WebApplication1.dll
+D:\cs1prg\newapp\WebApplication1\bin\WebApplication1.pdb
+D:\cs1prg\newapp\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\cs1prg\newapp\WebApplication1\obj\Debug\WebApplication1.dll
+D:\cs1prg\newapp\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\cs1prg\billadminmain\WebApplication1\bin\WebApplication1.dll
+C:\cs1prg\billadminmain\WebApplication1\bin\WebApplication1.pdb
+C:\cs1prg\billadminmain\WebApplication1\bin\Oracle.DataAccess.dll
+C:\cs1prg\billadminmain\WebApplication1\obj\Debug\WebApplication1.dll
+C:\cs1prg\billadminmain\WebApplication1\obj\Debug\WebApplication1.pdb
